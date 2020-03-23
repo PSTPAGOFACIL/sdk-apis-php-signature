@@ -1,5 +1,5 @@
 {
-    "name": "pstpagofacil/sdk-php-signature",
+    "name": "pstpagofacil/sdk-apis-php-signature",
     "type": "library",
     "description": "Librería de firmado para el API Transaccional de Pago Fácil",
     "license": "MIT",
