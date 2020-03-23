@@ -3,12 +3,10 @@
     "type": "library",
     "description": "Librería de firmado para el API Transaccional de Pago Fácil",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Cristian Tala",
-            "email": "yomismo@cristiantala.cl"
-        }
-    ],
+    "authors": [{
+        "name": "Cristian Tala",
+        "email": "yomismo@cristiantala.cl"
+    }],
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.0"
@@ -18,5 +16,5 @@
             "PSTPagoFacil": "src/classes/"
         }
 
+    }
 }
-
